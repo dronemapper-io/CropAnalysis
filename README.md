@@ -403,7 +403,7 @@ plt.show()
 
 You can view the Plot 2 AOI mean plot height values: [aoi2_plot_mean_height.csv](output/aoi2_plot_mean_height.csv)
 ### Compute Thermal Mean For Each Plot
-The thermal band (5) in the processed orthomosaic shows stitching artifacts which could likely be improved using more accurate pre-processing alignment and de-distortion algorithms. You can find more information about these functions in the MicaSense imageprocessing github repository. See notes at the top of this notebook.
+The thermal band (6) in the processed orthomosaic shows stitching artifacts which could likely be improved using more accurate pre-processing alignment and de-distortion algorithms. You can find more information about these functions in the MicaSense imageprocessing github repository. See notes at the top of this notebook.
 
 
 ```python
